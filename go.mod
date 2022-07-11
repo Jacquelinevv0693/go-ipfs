@@ -17,7 +17,7 @@ require (
 	github.com/ipfs/go-bitswap v0.5.1
 	github.com/ipfs/go-block-format v0.0.3
 	github.com/ipfs/go-blockservice v0.2.1
-	github.com/ipfs/go-cid v0.1.0
+	github.com/ipfs/go-cid v0.2.0
 	github.com/ipfs/go-cidutil v0.0.2
 	github.com/ipfs/go-datastore v0.5.1
 	github.com/ipfs/go-detect-race v0.0.1
@@ -60,8 +60,8 @@ require (
 	github.com/ipfs/interface-go-ipfs-core v0.5.2
 	github.com/ipfs/tar-utils v0.0.2
 	github.com/ipld/go-car v0.3.2
-	github.com/ipld/go-codec-dagpb v1.3.0
-	github.com/ipld/go-ipld-prime v0.14.2
+	github.com/ipld/go-codec-dagpb v1.4.1
+	github.com/ipld/go-ipld-prime v0.16.0
 	github.com/jbenet/go-random v0.0.0-20190219211222-123a90aedc0c
 	github.com/jbenet/go-temp-err-catcher v0.1.0
 	github.com/jbenet/goprocess v0.1.4
