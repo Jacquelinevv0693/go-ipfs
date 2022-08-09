@@ -17,7 +17,7 @@ require (
 	github.com/ipfs/go-bitswap v0.5.1
 	github.com/ipfs/go-block-format v0.0.3
 	github.com/ipfs/go-blockservice v0.2.1
-	github.com/ipfs/go-cid v0.1.0
+	github.com/ipfs/go-cid v0.2.0
 	github.com/ipfs/go-cidutil v0.0.2
 	github.com/ipfs/go-datastore v0.5.1
 	github.com/ipfs/go-detect-race v0.0.1
@@ -60,8 +60,8 @@ require (
 	github.com/ipfs/interface-go-ipfs-core v0.5.2
 	github.com/ipfs/tar-utils v0.0.2
 	github.com/ipld/go-car v0.3.2
-	github.com/ipld/go-codec-dagpb v1.3.0
-	github.com/ipld/go-ipld-prime v0.14.2
+	github.com/ipld/go-codec-dagpb v1.4.2
+	github.com/ipld/go-ipld-prime v0.18.0
 	github.com/jbenet/go-random v0.0.0-20190219211222-123a90aedc0c
 	github.com/jbenet/go-temp-err-catcher v0.1.0
 	github.com/jbenet/goprocess v0.1.4
@@ -94,8 +94,8 @@ require (
 	github.com/multiformats/go-multiaddr v0.4.1
 	github.com/multiformats/go-multiaddr-dns v0.3.1
 	github.com/multiformats/go-multibase v0.0.3
-	github.com/multiformats/go-multicodec v0.3.0
-	github.com/multiformats/go-multihash v0.1.0
+	github.com/multiformats/go-multicodec v0.5.0
+	github.com/multiformats/go-multihash v0.2.0
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.11.0
@@ -106,7 +106,7 @@ require (
 	go.opencensus.io v0.23.0
 	go.uber.org/fx v1.16.0
 	go.uber.org/zap v1.21.0
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/sys v0.0.0-20211025112917-711f33c9992c
 )
